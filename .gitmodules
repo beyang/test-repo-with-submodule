@@ -4,3 +4,6 @@
 [submodule "nested/git/module/test-repo"]
 	path = nested/git/module/test-repo
 	url = git@github.com:beyang/test-repo.git
+[submodule "bitbucket/mux"]
+	path = bitbucket/mux
+	url = https://beyang@bitbucket.org/beyang/mux.git
