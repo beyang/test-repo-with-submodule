@@ -1,3 +1,6 @@
 [submodule "test-repo"]
 	path = test-repo
 	url = git@github.com:beyang/test-repo.git
+[submodule "nested/git/module/test-repo"]
+	path = nested/git/module/test-repo
+	url = git@github.com:beyang/test-repo.git
