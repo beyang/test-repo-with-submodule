@@ -7,3 +7,6 @@
 [submodule "bitbucket/mux"]
 	path = bitbucket/mux
 	url = https://beyang@bitbucket.org/beyang/mux.git
+[submodule "public-repo"]
+	path = public-repo
+	url = git@gitlab.com:beyang/public-repo.git
