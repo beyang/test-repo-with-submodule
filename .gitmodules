@@ -10,3 +10,6 @@
 [submodule "public-repo"]
 	path = public-repo
 	url = git@gitlab.com:beyang/public-repo.git
+[submodule "test-repo-local-submodule"]
+	path = test-repo-local-submodule
+	url = ../test-repo
